@@ -1,0 +1,5 @@
+git add .
+git commit -m "judul pesan"
+git pull origin main (Kalau ada orang lain bekerja di repo yang sama- project bersama)
+git push origin main (project pribadi)
+tess
